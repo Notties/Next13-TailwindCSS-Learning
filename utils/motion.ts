@@ -36,15 +36,15 @@ export const slideIn = (direction: string, type: any, delay: any, duration: any)
   },
 });
 
-export const staggerContainer = (staggerChildren: any, delayChildren: any) => ({
+export const staggerContainer = {
   hidden: {},
   show: {
     transition: {
-      staggerChildren,
-      delayChildren,
+      staggerChildren: 0.5,
+      delayChildren: 0.5,
     },
   },
-});
+};
 
 export const textVariant = (delay: any) => ({
   hidden: {
