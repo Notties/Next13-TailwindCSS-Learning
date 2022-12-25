@@ -37,6 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Tutorial by JavaScript Mastery
 
-Youtube Channel: <a href="https://www.youtube.com/@javascriptmastery">JavaScript Mastery</a>
+Youtube Channel: [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 
-Youtube Video: <a href="https://youtu.be/ugCN_gynFYw">Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS</a>
+Youtube Video: [Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS](https://youtu.be/ugCN_gynFYw)
